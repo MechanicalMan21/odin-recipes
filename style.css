@@ -1,4 +1,10 @@
-* {
+h1 {
     font-family: Georgia, 'Times New Roman', Times, serif;
-    display: block;
+    background-color: green;
+    text-align: center;
+
+    border-style: dashed;
+    border-width: 10px;
+    border-color: orange;
+   
 }
